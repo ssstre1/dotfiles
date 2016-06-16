@@ -116,8 +116,6 @@
   alias vhgrc="vim ~/.hgrc"
   # cd dev
   alias cdd="cd $DEV"
-  # copy current directory to htdocs to run php server locally with MAMP
-  alias pphp="sudo rm -r /Applications/MAMP/htdocs && mkdir /Applications/MAMP/htdocs && cp -r ./* /Applications/MAMP/htdocs"
 
 # }}}
 
@@ -134,13 +132,6 @@
   alias vtex="find . -iname '*.tex' -exec vim {} \;"
   # vim the .tex files in the current directory
   alias mtex="find . -iname '*.tex' -exec vim {} \;"
-
-# }}}
-
-# Webdev {{{
-
-  # cd my website
-  alias cdsite="cd $CODE/willmayner.com/"
 
 # }}}
 

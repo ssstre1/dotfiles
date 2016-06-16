@@ -38,10 +38,10 @@
   changed = yellow
   untracked = cyan
 [user]
-  name = Will Mayner
-  email = wmayner@gmail.com
+  name = Sabrina Streipert
+  email = streipert@wisc.edu
 [core]
-  excludesfile = /Users/will/.gitignore
+  excludesfile = /home/sabrina/.gitignore
   autocrlf = input
 [credential]
   helper = cache --timeout=10800

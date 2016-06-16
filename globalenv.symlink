@@ -8,7 +8,7 @@ export PATH=$HOME/.local/bin:$PATH
 # Make Vim the default editor
 export EDITOR=vim
 export VISUAL='vim'
-export DEFAULT_USER="will"
+export DEFAULT_USER="sabrina"
 # Shortcut to aliases
 export ALIASES=~/.aliases
 # Bash-specific aliases
@@ -19,7 +19,5 @@ export DEV=~/dev
 export CODE=$DEV/projects
 # Path to your dotfiles repo (just set it to $HOME if you don't have one)
 export DOTFILES=$HOME/dotfiles
-# Path to Matlab IIT code
-export IIT=$HOME/Dropbox/iit/code/iit
 
 # vim:foldmethod=marker:foldmarker={{{,}}}:foldlevel=0:ft=sh
